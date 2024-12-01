@@ -4,7 +4,6 @@ setup(
     name="code_prompter",
     version="1.0.0",
     description="A tool to summarize project directories for LLM inputs",
-    author="Your Name",
     author_email="zhaojy2005@outlook.com",
     packages=find_packages(),
     entry_points={
